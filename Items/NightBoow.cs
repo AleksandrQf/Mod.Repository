@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace WINGS_OF_PIDARAS.Items
+namespace Mood.Items
 {
 	public class NightBoow : ModItem
 	{
