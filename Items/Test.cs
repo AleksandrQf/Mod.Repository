@@ -2,13 +2,13 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace WINGS_OF_PIDARAS.Items
+namespace Mood.Items
 {
 	public class Test : ModItem
 	{
 		public override void SetStaticDefaults()
 		{
-			DisplayName.SetDefault("Меч великого Мусаши"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
+			DisplayName.SetDefault("ГЊГҐГ· ГўГҐГ«ГЁГЄГ®ГЈГ® ГЊГіГ±Г ГёГЁ"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
 			Tooltip.SetDefault("This is a sworld of Musahi");
 		}
 
